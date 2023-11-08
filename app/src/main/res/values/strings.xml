@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WisataBanten</string>
+    <string name="author_name">Tio Fahdi</string>
+    <string name="author_email">Tiofahdi225@gmail.com</string>
+    <string name="placeholder_searchbar">Cari Tempat Wisata</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">kembali</string>
+</resources>
